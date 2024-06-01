@@ -33,7 +33,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Suni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Suni" /></a><a href="https://ko-fi.com/Su_ni"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Su_ni" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suniksha12&show_icons=true&locale=en&layout=compact" alt="suniksha12" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suniksha12&show_icons=true&locale=en&layout=compact" alt="suniksha12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suniksha12&" alt="suniksha12" /></p>
 
