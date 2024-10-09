@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm suniksha</h1>
-<h3 align="center">I am a learner who is passionate in growing and improvments in the field of Data Science.</h3>
+<h3 align="center">I am a learner who is passionate in growing and improvments.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suniksha12" alt="suniksha12" /></a> </p>
 
