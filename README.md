@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suniksha12" alt="suniksha12" /></a> </p>
 
-- 🔭 I’m currently working on [DSA Programs](https://github.com/Suniksha12/DSA_Programs)
+- 🔭 I’m currently working on [Php_MySQL Projects](https://github.com/Suniksha12/PHP_MY_SQL_Projects)
 
 - 🌱 I’m currently pursuing **Btech engineering**
 
